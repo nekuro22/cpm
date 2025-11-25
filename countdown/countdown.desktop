@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Unterrichts-Countdown — leidert.org
+Comment=Öffnet die Unterrichts-Countdown Webseite
+Exec=xdg-open "https://leidert.org/unterrichts-countdown/"
+Icon=web-browser
+Terminal=false
+Categories=Network;Education;
+StartupNotify=true
